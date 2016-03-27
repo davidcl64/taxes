@@ -1,0 +1,4 @@
+[ { "qty": 1, "name": "imported bottle of perfume", "price": 27.99, "class": "toiletry",  "imported": true  },
+  { "qty": 1, "name": "bottle of perfume",          "price": 18.99, "class": "toiletry",  "imported": false },
+  { "qty": 1, "name": "packet of headache pills",   "price":  9.75, "class": "medical",   "imported": false },
+  { "qty": 1, "name": "box of imported chocolates", "price": 11.25, "class": "food",      "imported": true  }]

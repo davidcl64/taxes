@@ -1,0 +1,3 @@
+[ { "qty": 1, "name": "book",                       "price": 12.49, "class": "book",      "imported": false },
+  { "qty": 1, "name": "music CD",                   "price": 14.99, "class": "cd",        "imported": false },
+  { "qty": 1, "name": "chocolate bar",              "price":  0.85, "class": "food",      "imported": false }]
